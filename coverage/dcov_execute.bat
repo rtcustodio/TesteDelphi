@@ -1,0 +1,1 @@
+CodeCoverage.exe -e "..\Test\Bin\ProvaDelphiAppTests.exe" -m "..\Test\Bin\ProvaDelphiAppTests.map" -uf dcov_units.lst -spf dcov_paths.lst -od “emma” -lt -emma -meta -xml -html

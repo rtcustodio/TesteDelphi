@@ -1,0 +1,627 @@
+Will track coverage for:TestuspClasses
+Will track coverage for:TestuspQuery
+Trying to start ..\Test\Bin\ProvaDelphiAppTests.exe with the Parameters :
+Started successfully
+Create Process:6820 name:..\Test\Bin\ProvaDelphiAppTests.exe
+Adding breakpoints for module:..\Test\Bin\ProvaDelphiAppTests.exe
+Module name "System.Types" did not match module from address name "System.UITypes" at address:0001467B
+Module name "System.Generics.Collections" did not match module from address name "System.Hash" at address:00048020
+Module name "System.Generics.Defaults" did not match module from address name "System.Classes" at address:00090F18
+Module name "System.MaskUtils" did not match module from address name "System.TimeSpan" at address:000F1EE9
+Module name "System.TimeSpan" did not match module from address name "System.DateUtils" at address:000F3CEC
+Module name "System.IOUtils" did not match module from address name "System.IniFiles" at address:0014F05C
+Module name "System.Win.Registry" did not match module from address name "Winapi.ShellAPI" at address:0015E758
+Module name "Winapi.CommCtrl" did not match module from address name "Winapi.ShlObj" at address:0015EFBC
+Module name "Winapi.ShlObj" did not match module from address name "System.AnsiStrings" at address:0015F1A8
+Module name "System.Diagnostics" did not match module from address name "System.SyncObjs" at address:00161AE3
+Module name "FireDAC.Phys.Intf" did not match module from address name "FireDAC.DApt.Column" at address:001AFAB4
+Module name "FireDAC.DApt.Column" did not match module from address name "FireDAC.DApt.Intf" at address:001B0661
+Module name "FireDAC.DApt.Intf" did not match module from address name "FireDAC.Stan.Factory" at address:001B0A8B
+Module name "FireDAC.Comp.DataSet" did not match module from address name "FireDAC.Comp.UI" at address:001D9754
+Module name "FireDAC.Phys.SQLPreprocessor" did not match module from address name "FireDAC.Comp.Client" at address:001E69E7
+Module name "uspQuery" did not match module from address name "DUnitConsts" at address:00209D67
+Module name "TextTestRunner" did not match module from address name "System.Messaging" at address:0021941E
+Module name "Winapi.Wincodec" did not match module from address name "System.UIConsts" at address:0022E1F4
+Module name "Winapi.MultiMon" did not match module from address name "Winapi.Imm" at address:00247C6D
+Module name "Winapi.Imm" did not match module from address name "Vcl.ActnList" at address:00247D50
+Module name "Winapi.Dwmapi" did not match module from address name "System.Win.Crtl" at address:00248FF6
+Module name "Vcl.StdCtrls" did not match module from address name "Winapi.WinSpool" at address:0027D8E5
+Module name "Winapi.RichEdit" did not match module from address name "Vcl.ToolWin" at address:0027F5AC
+Module name "Vcl.ToolWin" did not match module from address name "Vcl.ListActns" at address:002803E1
+Module name "Vcl.ListActns" did not match module from address name "Vcl.ComStrs" at address:00282DDE
+Module name "Vcl.ImgList" did not match module from address name "Vcl.Menus" at address:00325D11
+Module name "Winapi.ShellScaling" did not match module from address name "Winapi.FlatSB" at address:003304E0
+Module name "System.Win.TaskbarCore" did not match module from address name "Vcl.Forms" at address:00330B0C
+Module name "Vcl.Buttons" did not match module from address name "GUITestRunner" at address:00354A8C
+Module name "GUITestRunner" did not match module from address name "DUnitTestRunner" at address:0035FA44
+Module name "DUnitTestRunner" did not match module from address name "Vcl.Mask" at address:0035FA7E
+Module name "Vcl.Mask" did not match module from address name "Vcl.Grids" at address:00362084
+Module name "Vcl.DBGrids" did not match module from address name "Data.DBCommon" at address:0037ED82
+Module name "Data.DBCommon" did not match module from address name "Datasnap.MidConst" at address:00386DC3
+Module name "FireDAC.Phys.Meta" did not match module from address name "FireDAC.Phys" at address:003B8D17
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162423
+Adding breakpoint for TestuspQuery.TestTspQuery.SetUp in TestuspQuery.pas
+Creating class info for TestuspQuery class TestTspQuery
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 34 BreakPoint at:007DE2B0
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162424
+Adding breakpoint for TestuspQuery.TestTspQuery.SetUp in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 35 BreakPoint at:007DE2B7
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162425
+Adding breakpoint for TestuspQuery.TestTspQuery.SetUp in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 36 BreakPoint at:007DE2CB
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162426
+Adding breakpoint for TestuspQuery.TestTspQuery.TearDown in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 39 BreakPoint at:007DE2D0
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162427
+Adding breakpoint for TestuspQuery.TestTspQuery.TearDown in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 40 BreakPoint at:007DE2D7
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162428
+Adding breakpoint for TestuspQuery.TestTspQuery.TearDown in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 41 BreakPoint at:007DE2E2
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162429
+Adding breakpoint for TestuspQuery.TestTspQuery.TearDown in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 42 BreakPoint at:007DE2EA
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162430
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 47 BreakPoint at:007DE2F0
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162431
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 48 BreakPoint at:007DE311
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162432
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 49 BreakPoint at:007DE320
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162433
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 50 BreakPoint at:007DE328
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162434
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 51 BreakPoint at:007DE335
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162435
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 52 BreakPoint at:007DE342
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162436
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 54 BreakPoint at:007DE34F
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162437
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 55 BreakPoint at:007DE365
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162438
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 56 BreakPoint at:007DE37B
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162439
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 59 BreakPoint at:007DE391
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162440
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 60 BreakPoint at:007DE39C
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162441
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 61 BreakPoint at:007DE3DF
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162442
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 64 BreakPoint at:007DE42E
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:162443
+Adding breakpoint for TestuspQuery.TestTspQuery.TestGeraSQL in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 66 BreakPoint at:007DE436
+Module name "uspClasses.Contador" did not match module from address name "DUnitX.ResStrs" at address:003F8FDC
+Module name "System.RegularExpressionsAPI" did not match module from address name "System.RegularExpressionsCore" at address:0042BE19
+Module name "System.RegularExpressions" did not match module from address name "DUnitX.Assert" at address:00430D71
+Module name "DUnitX.InternalDataProvider" did not match module from address name "DUnitX.Attributes" at address:0043F5E3
+Module name "FireDAC.Stan.Option" did not match module from address name "FireDAC.Stan.Expr" at address:004BD504
+Module name "FireDAC.Comp.Client" did not match module from address name "TestFramework" at address:004BD63C
+Module name "Vcl.Controls" did not match module from address name "Vcl.StdCtrls" at address:004BD908
+Module name "Vcl.ComCtrls" did not match module from address name "Vcl.Dialogs" at address:004BDBF9
+Module name "Vcl.Dialogs" did not match module from address name "Vcl.ExtCtrls" at address:004BDCCC
+Module name "Vcl.ExtCtrls" did not match module from address name "Vcl.Themes" at address:004BDD3C
+Module name "Vcl.DBCtrls" did not match module from address name "Vcl.DBGrids" at address:004BE04C
+Module name "FireDAC.Phys" did not match module from address name "FireDAC.Phys.ODBCWrapper" at address:004BE140
+Module name "FireDAC.DApt" did not match module from address name "TestuspQuery" at address:004BE218
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:175290
+Adding breakpoint for TestuspQuery.TestuspQuery in TestuspQuery.pas
+Creating class info for TestuspQuery class TestuspQuery
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 70 BreakPoint at:008BF234
+Setting BreakPoint for module: TestuspQuery unit TestuspQuery.pas addr:175291
+Adding breakpoint for TestuspQuery.TestuspQuery in TestuspQuery.pas
+TBreakPoint.Activate:
+Activate TestuspQuery.pas line 71 BreakPoint at:008BF249
+Module name "FireDAC.Stan.Param" did not match module from address name "DUnitX.TestFramework" at address:004BE5D9
+Module Data.DB skipped
+Module Data.DBCommon skipped
+Module Data.FmtBcd skipped
+Module Data.SqlTimSt skipped
+Module Datasnap.DBClient skipped
+Module Datasnap.DSIntf skipped
+Module Datasnap.Provider skipped
+Module delayhlp skipped
+Module DUnitTestRunner skipped
+Module DUnitX.Banner skipped
+Module DUnitX.InternalDataProvider skipped
+Module DUnitX.IoC skipped
+Module DUnitX.TestDataProvider skipped
+Module FireDAC.Comp.Client skipped
+Module FireDAC.Comp.DataSet skipped
+Module FireDAC.Comp.UI skipped
+Module FireDAC.DApt skipped
+Module FireDAC.DApt.Column skipped
+Module FireDAC.DApt.Intf skipped
+Module FireDAC.DatS skipped
+Module FireDAC.Phys skipped
+Module FireDAC.Phys.Intf skipped
+Module FireDAC.Phys.Meta skipped
+Module FireDAC.Phys.ODBCWrapper skipped
+Module FireDAC.Phys.SQLPreprocessor skipped
+Module FireDAC.Stan.Error skipped
+Module FireDAC.Stan.Expr skipped
+Module FireDAC.Stan.Factory skipped
+Module FireDAC.Stan.Intf skipped
+Module FireDAC.Stan.Option skipped
+Module FireDAC.Stan.Param skipped
+Module FireDAC.Stan.SQLTimeInt skipped
+Module FireDAC.Stan.Util skipped
+Module FireDAC.UI.Intf skipped
+Module GETMEM skipped
+Module GuiTestRunner skipped
+Module pcre_compile skipped
+Module pcre_exec skipped
+Module pcre_fullinfo skipped
+Module pcre_get skipped
+Module pcre_internal skipped
+Module pcre_maketables skipped
+Module pcre_newline skipped
+Module pcre_string_utils skipped
+Module pcre_study skipped
+Module pcre_xclass skipped
+Module pcre16_ord2utf16 skipped
+Module pcre16_valid_utf16 skipped
+Module ProvaDelphiAppTests skipped
+Module SysInit skipped
+Module System skipped
+Module System.Actions skipped
+Module System.AnsiStrings skipped
+Module System.Character skipped
+Module System.Character.11.0.0 skipped
+Module System.Classes skipped
+Module System.Contnrs skipped
+Module System.DateUtils skipped
+Module System.Diagnostics skipped
+Module System.Generics.Collections skipped
+Module System.Generics.Defaults skipped
+Module System.Hash skipped
+Module System.HelpIntfs skipped
+Module System.ImageList skipped
+Module System.IniFiles skipped
+Module System.Internal.ExcUtils skipped
+Module System.IOUtils skipped
+Module System.MaskUtils skipped
+Module System.Math skipped
+Module System.Messaging skipped
+Module System.RegularExpressions skipped
+Module System.RegularExpressionsAPI skipped
+Module System.RegularExpressionsCore skipped
+Module System.Rtti skipped
+Module System.StrUtils skipped
+Module System.SyncObjs skipped
+Module System.SysUtils skipped
+Module System.Threading skipped
+Module System.TimeSpan skipped
+Module System.Types skipped
+Module System.TypInfo skipped
+Module System.UIConsts skipped
+Module System.UITypes skipped
+Module System.Variants skipped
+Module System.VarUtils skipped
+Module System.WideStrUtils skipped
+Module System.Win.ComObj skipped
+Module System.Win.Crtl skipped
+Module System.Win.Registry skipped
+Module System.Win.TaskbarCore skipped
+Module TestFramework skipped
+Module TestuspClasses.ClientDataSetUtils skipped
+Module TestuspClasses.Contador skipped
+Module TextTestRunner skipped
+Module uspClasses.ClientDataSetUtils skipped
+Module uspClasses.Contador skipped
+Module uspQuery skipped
+Module Vcl.ActnList skipped
+Module Vcl.Buttons skipped
+Module Vcl.Clipbrd skipped
+Module Vcl.ComCtrls skipped
+Module Vcl.Controls skipped
+Module Vcl.DBCtrls skipped
+Module Vcl.DbGrids skipped
+Module Vcl.DBLogDlg skipped
+Module Vcl.DBPWDlg skipped
+Module Vcl.Dialogs skipped
+Module Vcl.ExtCtrls skipped
+Module Vcl.Forms skipped
+Module Vcl.Graphics skipped
+Module Vcl.GraphUtil skipped
+Module Vcl.Grids skipped
+Module Vcl.ImgList skipped
+Module Vcl.ListActns skipped
+Module Vcl.Mask skipped
+Module Vcl.Menus skipped
+Module Vcl.Printers skipped
+Module Vcl.StdActns skipped
+Module Vcl.StdCtrls skipped
+Module Vcl.Themes skipped
+Module Vcl.ToolWin skipped
+Module Winapi.ActiveX skipped
+Module Winapi.CommCtrl skipped
+Module Winapi.DwmApi skipped
+Module Winapi.FlatSB skipped
+Module Winapi.Imm skipped
+Module Winapi.Messages skipped
+Module Winapi.MsCTF skipped
+Module Winapi.MultiMon skipped
+Module Winapi.PsAPI skipped
+Module Winapi.RichEdit skipped
+Module Winapi.ShellAPI skipped
+Module Winapi.ShellScaling skipped
+Module Winapi.SHFolder skipped
+Module Winapi.ShlObj skipped
+Module Winapi.UxTheme skipped
+Module Winapi.Wincodec skipped
+Module Winapi.Windows skipped
+Module Winapi.WinSpool skipped
+Module WindowsAPIs skipped
+Done adding  BreakPoints
+ReadProcessMemory error: Somente uma parte de um pedido ReadProcessMemory ou WriteProcessMemory foi concluída
+GetModuleFileNameEx error: Identificador inválido
+Loading DLL at addr:747C0000 (C:\Windows\SysWOW64\KERNEL32.DLL) size :409600
+Done adding  BreakPoints
+Loading DLL at addr:76710000 (C:\Windows\SysWOW64\KERNELBASE.dll) size :1853952
+Done adding  BreakPoints
+Loading DLL at addr:67440000 (C:\Windows\SysWOW64\apphelp.dll) size :504832
+Done adding  BreakPoints
+Create thread:9904
+Create thread:8564
+Loading DLL at addr:75160000 (C:\Windows\SysWOW64\shell32.dll) size :5289984
+Done adding  BreakPoints
+Loading DLL at addr:74680000 (C:\Windows\SysWOW64\winspool.drv) size :297472
+Done adding  BreakPoints
+Loading DLL at addr:68310000 (C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.18362.1379_none_bb62dc01ec8ffbb7\comctl32.dll) size :466432
+Done adding  BreakPoints
+Loading DLL at addr:74980000 (C:\Windows\SysWOW64\ucrtbase.dll) size :1108480
+Done adding  BreakPoints
+Loading DLL at addr:76470000 (C:\Windows\SysWOW64\msvcrt.dll) size :723456
+Done adding  BreakPoints
+Loading DLL at addr:74D80000 (C:\Windows\SysWOW64\ADVAPI32.dll) size :421376
+Done adding  BreakPoints
+Create thread:10996
+Loading DLL at addr:74B00000 (C:\Windows\SysWOW64\combase.dll) size :2297856
+Done adding  BreakPoints
+Loading DLL at addr:766D0000 (C:\Windows\SysWOW64\cfgmgr32.dll) size :206336
+Done adding  BreakPoints
+Loading DLL at addr:74E20000 (C:\Windows\SysWOW64\sechost.dll) size :421888
+Done adding  BreakPoints
+Loading DLL at addr:76210000 (C:\Windows\SysWOW64\RPCRT4.dll) size :695296
+Done adding  BreakPoints
+WARNING: The module C:\Windows\SysWOW64\RPCRT4.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+Loading DLL at addr:76030000 (C:\Windows\SysWOW64\shcore.dll) size :475136
+Done adding  BreakPoints
+UnLoading DLL:76030000
+Loading DLL at addr:74AD0000 (C:\Windows\SysWOW64\GDI32.dll) size :104448
+Done adding  BreakPoints
+Loading DLL at addr:756E0000 (C:\Windows\SysWOW64\windows.storage.dll) size :5544448
+Done adding  BreakPoints
+Loading DLL at addr:74710000 (C:\Windows\SysWOW64\SspiCli.dll) size :120832
+Done adding  BreakPoints
+Loading DLL at addr:76450000 (C:\Windows\SysWOW64\win32u.dll) size :73728
+Done adding  BreakPoints
+Loading DLL at addr:74740000 (C:\Windows\SysWOW64\msvcp_win.dll) size :454144
+Done adding  BreakPoints
+Loading DLL at addr:74700000 (C:\Windows\SysWOW64\CRYPTBASE.dll) size :16384
+Done adding  BreakPoints
+Loading DLL at addr:75DC0000 (C:\Windows\SysWOW64\gdi32full.dll) size :1278464
+Done adding  BreakPoints
+Loading DLL at addr:761F0000 (C:\Windows\SysWOW64\profapi.dll) size :79872
+Done adding  BreakPoints
+Loading DLL at addr:74920000 (C:\Windows\SysWOW64\bcryptPrimitives.dll) size :363008
+Done adding  BreakPoints
+Loading DLL at addr:76530000 (C:\Windows\SysWOW64\USER32.dll) size :659968
+Done adding  BreakPoints
+Loading DLL at addr:74EA0000 (C:\Windows\SysWOW64\powrprof.dll) size :77824
+Done adding  BreakPoints
+Loading DLL at addr:760C0000 (C:\Windows\SysWOW64\UMPDC.dll) size :30720
+Done adding  BreakPoints
+Loading DLL at addr:75CA0000 (C:\Windows\SysWOW64\kernel.appcore.dll) size :26624
+Done adding  BreakPoints
+Loading DLL at addr:76970000 (C:\Windows\SysWOW64\shlwapi.dll) size :231936
+Done adding  BreakPoints
+Loading DLL at addr:76F10000 (C:\Windows\SysWOW64\bcrypt.dll) size :74752
+Done adding  BreakPoints
+Loading DLL at addr:74570000 (C:\Windows\SysWOW64\IPHLPAPI.DLL) size :172032
+Done adding  BreakPoints
+Loading DLL at addr:74E00000 (C:\Windows\SysWOW64\cryptsp.dll) size :49664
+Done adding  BreakPoints
+Loading DLL at addr:745B0000 (C:\Windows\SysWOW64\PROPSYS.dll) size :721920
+Done adding  BreakPoints
+Loading DLL at addr:76E70000 (C:\Windows\SysWOW64\oleaut32.dll) size :540160
+Done adding  BreakPoints
+Loading DLL at addr:02120000 (C:\Windows\SysWOW64\OLEAUT32.dll) size :540160
+Done adding  BreakPoints
+UnLoading DLL:02120000
+Loading DLL at addr:74EF0000 (C:\Windows\SysWOW64\ole32.dll) size :828416
+Done adding  BreakPoints
+Loading DLL at addr:73BA0000 (C:\Windows\SysWOW64\version.dll) size :10752
+Done adding  BreakPoints
+Loading DLL at addr:6FD70000 (C:\Windows\SysWOW64\netapi32.dll) size :51712
+Done adding  BreakPoints
+Loading DLL at addr:67720000 (C:\Windows\SysWOW64\SHFolder.dll) size :3584
+Done adding  BreakPoints
+Loading DLL at addr:6FD60000 (C:\Windows\SysWOW64\NETUTILS.DLL) size :20992
+Done adding  BreakPoints
+Couldn't find BreakPoint for exception address:76FEECC2
+Loading DLL at addr:74AA0000 (C:\Windows\SysWOW64\IMM32.DLL) size :101376
+Done adding  BreakPoints
+Loading DLL at addr:75050000 (C:\Windows\SysWOW64\Msctf.dll) size :963584
+Done adding  BreakPoints
+Loading DLL at addr:744F0000 (C:\Windows\SysWOW64\uxtheme.dll) size :436736
+Done adding  BreakPoints
+Loading DLL at addr:744E0000 (C:\Windows\SysWOW64\wtsapi32.dll) size :35328
+Done adding  BreakPoints
+Loading DLL at addr:6E6B0000 (C:\Windows\SysWOW64\WINSTA.dll) size :230912
+Done adding  BreakPoints
+Adding coverage:TestuspQuery.pas (TestuspQuery) 70
+Clearing BreakPoint at 008BF234
+De-Activate TestuspQuery.pas line 70 BreakPoint at:008BF234
+Adding coverage:TestuspQuery.pas (TestuspQuery) 71
+Clearing BreakPoint at 008BF249
+De-Activate TestuspQuery.pas line 71 BreakPoint at:008BF249
+Loading DLL at addr:74080000 (C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.1379_none_e62d2a8af8d8e9ca\comctl32.DLL) size :1725440
+Done adding  BreakPoints
+Loading DLL at addr:67010000 (C:\Windows\SysWOW64\RICHED20.DLL) size :421376
+Done adding  BreakPoints
+Loading DLL at addr:677D0000 (C:\Windows\SysWOW64\msls31.dll) size :176640
+Done adding  BreakPoints
+Loading DLL at addr:675B0000 (C:\Windows\SysWOW64\USP10.dll) size :3072
+Done adding  BreakPoints
+Create thread:784
+Create thread:1432
+Create thread:6376
+Loading DLL at addr:75F20000 (C:\Windows\SysWOW64\clbcatq.dll) size :456704
+Done adding  BreakPoints
+Loading DLL at addr:678C0000 (C:\Windows\SysWOW64\dataexchange.dll) size :161280
+Done adding  BreakPoints
+Loading DLL at addr:70170000 (C:\Windows\SysWOW64\d3d11.dll) size :1776128
+Done adding  BreakPoints
+Loading DLL at addr:671E0000 (C:\Windows\SysWOW64\dcomp.dll) size :1322496
+Done adding  BreakPoints
+Loading DLL at addr:6FE30000 (C:\Windows\SysWOW64\dxgi.dll) size :619520
+Done adding  BreakPoints
+Loading DLL at addr:6FDC0000 (C:\Windows\SysWOW64\dxcore.dll) size :63488
+Done adding  BreakPoints
+Loading DLL at addr:6EE40000 (C:\Windows\SysWOW64\twinapi.appcore.dll) size :1798656
+Done adding  BreakPoints
+Loading DLL at addr:6EE20000 (C:\Windows\SysWOW64\RMCLIENT.dll) size :92160
+Done adding  BreakPoints
+Loading DLL at addr:72060000 (C:\Windows\SysWOW64\DWMAPI.DLL) size :91136
+Done adding  BreakPoints
+Loading DLL at addr:67BF0000 (C:\Windows\SysWOW64\TextInputFramework.dll) size :478720
+Done adding  BreakPoints
+Loading DLL at addr:67990000 (C:\Windows\SysWOW64\CoreUIComponents.dll) size :1406976
+Done adding  BreakPoints
+Loading DLL at addr:67900000 (C:\Windows\SysWOW64\CoreMessaging.dll) size :350208
+Done adding  BreakPoints
+Loading DLL at addr:73F90000 (C:\Windows\SysWOW64\ntmarta.dll) size :125440
+Done adding  BreakPoints
+Loading DLL at addr:6F540000 (C:\Windows\SysWOW64\wintypes.dll) size :759296
+Done adding  BreakPoints
+WARNING: The module C:\Windows\SysWOW64\wintypes.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+WARNING: The module C:\Windows\SysWOW64\wintypes.dll was already loaded. Skipping breakpoint generation and coverage for subsequent load.
+UnLoading DLL:05A50000
+UnLoading DLL:05A50000
+Loading DLL at addr:704E0000 (C:\Windows\SysWOW64\iertutil.dll) size :2092032
+Done adding  BreakPoints
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Loading DLL at addr:4DAE0000 (C:\Program Files (x86)\Embarcadero\Studio\20.0\bin\midas.dll) size :352256
+Done adding  BreakPoints
+Adding coverage:TestuspQuery.pas (TestuspQuery) 34
+Clearing BreakPoint at 007DE2B0
+De-Activate TestuspQuery.pas line 34 BreakPoint at:007DE2B0
+Adding coverage:TestuspQuery.pas (TestuspQuery) 35
+Clearing BreakPoint at 007DE2B7
+De-Activate TestuspQuery.pas line 35 BreakPoint at:007DE2B7
+Adding coverage:TestuspQuery.pas (TestuspQuery) 36
+Clearing BreakPoint at 007DE2CB
+De-Activate TestuspQuery.pas line 36 BreakPoint at:007DE2CB
+Adding coverage:TestuspQuery.pas (TestuspQuery) 47
+Clearing BreakPoint at 007DE2F0
+De-Activate TestuspQuery.pas line 47 BreakPoint at:007DE2F0
+Adding coverage:TestuspQuery.pas (TestuspQuery) 48
+Clearing BreakPoint at 007DE311
+De-Activate TestuspQuery.pas line 48 BreakPoint at:007DE311
+Adding coverage:TestuspQuery.pas (TestuspQuery) 49
+Clearing BreakPoint at 007DE320
+De-Activate TestuspQuery.pas line 49 BreakPoint at:007DE320
+Adding coverage:TestuspQuery.pas (TestuspQuery) 50
+Clearing BreakPoint at 007DE328
+De-Activate TestuspQuery.pas line 50 BreakPoint at:007DE328
+Adding coverage:TestuspQuery.pas (TestuspQuery) 51
+Clearing BreakPoint at 007DE335
+De-Activate TestuspQuery.pas line 51 BreakPoint at:007DE335
+Adding coverage:TestuspQuery.pas (TestuspQuery) 52
+Clearing BreakPoint at 007DE342
+De-Activate TestuspQuery.pas line 52 BreakPoint at:007DE342
+Adding coverage:TestuspQuery.pas (TestuspQuery) 54
+Clearing BreakPoint at 007DE34F
+De-Activate TestuspQuery.pas line 54 BreakPoint at:007DE34F
+Adding coverage:TestuspQuery.pas (TestuspQuery) 55
+Clearing BreakPoint at 007DE365
+De-Activate TestuspQuery.pas line 55 BreakPoint at:007DE365
+Adding coverage:TestuspQuery.pas (TestuspQuery) 56
+Clearing BreakPoint at 007DE37B
+De-Activate TestuspQuery.pas line 56 BreakPoint at:007DE37B
+Adding coverage:TestuspQuery.pas (TestuspQuery) 59
+Clearing BreakPoint at 007DE391
+De-Activate TestuspQuery.pas line 59 BreakPoint at:007DE391
+Adding coverage:TestuspQuery.pas (TestuspQuery) 60
+Clearing BreakPoint at 007DE39C
+De-Activate TestuspQuery.pas line 60 BreakPoint at:007DE39C
+Adding coverage:TestuspQuery.pas (TestuspQuery) 64
+Clearing BreakPoint at 007DE42E
+De-Activate TestuspQuery.pas line 64 BreakPoint at:007DE42E
+Adding coverage:TestuspQuery.pas (TestuspQuery) 66
+Clearing BreakPoint at 007DE436
+De-Activate TestuspQuery.pas line 66 BreakPoint at:007DE436
+Adding coverage:TestuspQuery.pas (TestuspQuery) 39
+Clearing BreakPoint at 007DE2D0
+De-Activate TestuspQuery.pas line 39 BreakPoint at:007DE2D0
+Adding coverage:TestuspQuery.pas (TestuspQuery) 40
+Clearing BreakPoint at 007DE2D7
+De-Activate TestuspQuery.pas line 40 BreakPoint at:007DE2D7
+Adding coverage:TestuspQuery.pas (TestuspQuery) 41
+Clearing BreakPoint at 007DE2E2
+De-Activate TestuspQuery.pas line 41 BreakPoint at:007DE2E2
+Adding coverage:TestuspQuery.pas (TestuspQuery) 42
+Clearing BreakPoint at 007DE2EA
+De-Activate TestuspQuery.pas line 42 BreakPoint at:007DE2EA
+Create thread:8068
+Create thread:4420
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Thread exit:4420
+Create thread:6516
+Wait For Debug Event timed-out
+Thread exit:6516
+Wait For Debug Event timed-out
+Create thread:1504
+Thread exit:1504
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+Wait For Debug Event timed-out
+UnLoading DLL:00339000
+UnLoading DLL:00339000
+UnLoading DLL:00339000
+UnLoading DLL:00339000
+EXCEPTION CODE:0000071A
+Address:768246D2
+EXCEPTION flags:00000001
+---------------Stack trace --------------
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76222C0E
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76222BBC
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76217863
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:7621758F
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:762174EC
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\WINSTA.dll Stack frame:6E6C6222
+Module : C:\Windows\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\WINSTA.dll Stack frame:6E6C618A
+Module : C:\Windows\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:762440E5
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:7624407D
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76221A29
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:762219AD
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:7622191A
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76221828
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:76221761
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\RPCRT4.dll Stack frame:7622169B
+Module : C:\Windows\SysWOW64\RPCRT4.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\WINSTA.dll Stack frame:6E6C6082
+Module : C:\Windows\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\WINSTA.dll Stack frame:6E6C5FC9
+Module : C:\Windows\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\WINSTA.dll Stack frame:6E6C5DA5
+Module : C:\Windows\SysWOW64\WINSTA.dll - no MAP information exists
+Module : C:\Windows\SysWOW64\wtsapi32.dll Stack frame:744E2A3A
+Module : C:\Windows\SysWOW64\wtsapi32.dll - no MAP information exists
+Module : ..\Test\Bin\ProvaDelphiAppTests.exe Stack frame:00745E8A
+Exact line:Vcl.Forms line 9696
+Module : ..\Test\Bin\ProvaDelphiAppTests.exe Stack frame:0040AB5C
+Exact line:System line 23214
+Module : ..\Test\Bin\ProvaDelphiAppTests.exe Stack frame:0040AF6D
+Exact line:System line 24702
+Module : C:\Windows\SysWOW64\KERNEL32.DLL Stack frame:747D6359
+Module : C:\Windows\SysWOW64\KERNEL32.DLL - no MAP information exists
+No module found for exception address:76FA8944
+No module found for exception address:76FA8914
+---------------End of Stack trace --------------
+Create thread:7400
+Create thread:3868
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+UnLoading DLL:0033F000
+Thread exit:1432
+Thread exit:3868
+Thread exit:7400
+Thread exit:8068
+Thread exit:784
+Thread exit:6376
+Thread exit:10996
+Thread exit:8564
+Thread exit:9904
+Process 6820 exiting. Exit code :0
+Finished processing debug events
+ProcedureReport
+Generating reports
+Generating coverage report
+Source dir: C:\TesteDelphiApp\Fontes\
+Output dir: ÔÇ£emmaÔÇØ
+Generating xml coverage report
+Generating EMMA file
+Generating EMMA data for module: ModuleInfo[ modulename=TestuspQuery, filename=TestuspQuery.pas ]
+Generating EMMA data for class: TestTspQuery
+Generating EMMA data for method: TestGeraSQL l:14 c:13
+Generating EMMA data for method: SetUp l:3 c:3
+Generating EMMA data for method: TearDown l:4 c:4
+Generating EMMA data for class: TestuspQuery
+Generating EMMA data for method: Initialization l:2 c:2
+Emma file generated
+Finished generating reports
+
+Summary:
+
++-----------+-----------+-----------+
+|   Lines   |  Covered  | Covered % |
++-----------+-----------+-----------+
+|        23 |        22 |      95 % |
++-----------+-----------+-----------+
